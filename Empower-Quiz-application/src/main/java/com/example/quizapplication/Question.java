@@ -3,6 +3,7 @@ package com.example.quizapplication;
 import jakarta.persistence.*;
 import lombok.Data;
 
+//addingthis comments to make diffrence
 @Data
 @Entity
 public class Question {
