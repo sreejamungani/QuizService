@@ -4,6 +4,7 @@ import jakarta.persistence.*;
 import lombok.Data;
 
 //addingthis comments to make diffrence
+//Adding this to make a pull request
 @Data
 @Entity
 public class Question {
