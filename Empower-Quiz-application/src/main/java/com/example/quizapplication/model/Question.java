@@ -1,4 +1,4 @@
-package com.example.quizapplication;
+package com.example.quizapplication.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
@@ -18,5 +18,6 @@ public class Question {
     private String rightAnswer;
     private String difficultyLevel;
     private String category;
+
 
 }
